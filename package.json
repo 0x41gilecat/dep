@@ -13,6 +13,6 @@
     "lodash.merge":"4.5.0",
     "lodash-es":"3.10.1",
     "lodash.defaultsdeep":"4.6.1",
-    "npm":"6.12.0"
+    "npm":"10.8.2"
   }
 }
