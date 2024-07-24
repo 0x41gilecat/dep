@@ -11,7 +11,7 @@
   "dependencies": {
     "lodash": "4.9.0",
     "lodash.merge":"4.5.0",
-    "lodash-es":"3.10.1",
+    "lodash-es":"4.17.21",
     "lodash.defaultsdeep":"4.6.1"
   }
 }
