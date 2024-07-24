@@ -9,4 +9,4 @@ jobs:
       - run: |
          echo "[+] user.login: ${{github.event.pull_request.user.login}}"
          echo "[+] github.actor: ${{github.actor}}"
-         "cho "[+] github.event.sender.login: ${{ github.event.sender.login }}
+         echo "[+] github.event.sender.login: ${{ github.event.sender.login }}"
